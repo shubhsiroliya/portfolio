@@ -89,8 +89,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React", "Tailwind CSS", "FramerMotion"],
-    code: "",
-    view: "/",
+    code: "https://github.com/shubhsiroliya/portfolio",
+    view: "https://portfolio-lake-omega-39.vercel.app/",
   },
 ];
 
