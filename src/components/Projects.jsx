@@ -58,7 +58,7 @@ const Projects = () => {
                   <></>
                 )}
                 <a
-                  href=""
+                  href={project.code}
                   className="flex items-center justify-center gap-4 border-b mx-2 text-sm m-8"
                 >
                   code <FaExternalLinkAlt />
