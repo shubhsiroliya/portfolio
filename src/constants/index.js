@@ -33,6 +33,15 @@ export const EXPERIENCES = [
   },
 ];
 
+export const EDUCATION = [
+  {
+    year: "Aug 2019 - Aug 2023",
+    degree: "Bachelor of Technology",
+    institute: "Indian Institute of Information Technology, Surat",
+    description: `Computer Science Engineering, Secured 7.98 c.g.p.a.`,
+  },
+];
+
 export const PROJECTS = [
   {
     title: "e-commerce",
